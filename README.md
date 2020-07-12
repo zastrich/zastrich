@@ -8,6 +8,8 @@
 
 > My name is Robert but you can call me Zas, I am Brazilian and programmer since 1998 always working with web languages, I grew up in the profession in the same way that the web came to dominate the scene.
 
+[![Awesome Badges](https://img.shields.io/badge/Facebook%20-000000.svg?style=social&logo=Facebook&logoColor=1877F2)](https://fb.com/zastrich) [![Awesome Badges](https://img.shields.io/badge/Twitter%20-000000.svg?style=social&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/zastrich) [![Awesome Badges](https://img.shields.io/badge/Linkedin%20-000000.svg?style=social&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/zastrich/)
+
 | Knowledges | Learned | Interested | Extra knowledge |
 |--|--|--|--|
 | [![Awesome Badges](https://img.shields.io/badge/Github%20-181717.svg?logo=Github&logoColor=ffffff)](https://github.com) | ![Progress](https://progress-bar.dev/97/) | ![Progress](https://progress-bar.dev/500) |
