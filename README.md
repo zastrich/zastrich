@@ -39,4 +39,9 @@
 | [![Awesome Badges](https://img.shields.io/badge/Adobe%20Illustrator-F37021.svg?logo=Adobe%20Illustrator&logoColor=ffffff)](https://www.adobe.com/products/illustrator.html)|![Progress](https://progress-bar.dev/81)| ![Progress](https://progress-bar.dev/67)|
 | ![Awesome Badges](https://img.shields.io/badge/English-B22234.svg?label=Language&labelColor=3C3B6E)|![Progress](https://progress-bar.dev/64)| ![Progress](https://progress-bar.dev/120)|
 
+## Available to changes
+> Countries I accept to live in:
+![Canadá](https://image.flaticon.com/icons/svg/197/197430.svg =60x60) ![EUA](https://image.flaticon.com/icons/svg/197/197484.svg =60x60) ![Austrália](https://image.flaticon.com/icons/svg/197/197507.svg =60x60) ![Portugal](https://image.flaticon.com/icons/svg/197/197463.svg =60x60) ![UK](https://image.flaticon.com/icons/svg/197/197374.svg =60x60) ![Irlanda](https://image.flaticon.com/icons/svg/197/197567.svg =60x60)
+
+##
 ###### This profile is free to copy
