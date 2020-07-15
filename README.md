@@ -42,7 +42,7 @@
 ## Available to changes
 > Countries I accept to live in:
 
-![Canadá](https://image.flaticon.com/icons/svg/197/197430.svg | width=60) ![EUA](https://image.flaticon.com/icons/svg/197/197484.svg =60x60) ![Austrália](https://image.flaticon.com/icons/svg/197/197507.svg =60x60) ![Portugal](https://image.flaticon.com/icons/svg/197/197463.svg =60x60) ![UK](https://image.flaticon.com/icons/svg/197/197374.svg =60x60) ![Irlanda](https://image.flaticon.com/icons/svg/197/197567.svg =60x60)
+![](https://image.flaticon.com/icons/svg/197/197430.svg) ![EUA](https://image.flaticon.com/icons/svg/197/197484.svg=60x60) ![Austrália](https://image.flaticon.com/icons/svg/197/197507.svg|width=60) ![Portugal](https://image.flaticon.com/icons/svg/197/197463.svg =60x60) ![UK](https://image.flaticon.com/icons/svg/197/197374.svg =60x60) ![Irlanda](https://image.flaticon.com/icons/svg/197/197567.svg =60x60)
 
 ##
 ###### This profile is free to copy
