@@ -42,6 +42,7 @@
 ## Available to changes
 > Countries I accept to live in:
 
+| | | | | |
 |--|--|--|--|--|
 | ![Canadá](https://lipis.github.io/flag-icon-css/flags/4x3/ca.svg) | ![EUA](https://lipis.github.io/flag-icon-css/flags/4x3/us.svg) | ![Austrália](https://lipis.github.io/flag-icon-css/flags/4x3/au.svg) | ![Portugal](https://lipis.github.io/flag-icon-css/flags/4x3/pt.svg) | ![UK](https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg) | ![Irlanda](https://lipis.github.io/flag-icon-css/flags/4x3/ie.svg|60x60) |
 
