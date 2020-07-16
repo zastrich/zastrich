@@ -20,8 +20,8 @@
 | [![Awesome Badges](https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL&logoColor=ffffff)](https://graphql.org) | ![Progress](https://progress-bar.dev/32) | ![Progress](https://progress-bar.dev/200) |
 | [![Awesome Badges](https://img.shields.io/badge/NextJS-000000.svg?logo=Next.js&logoColor=ffffff)](https://nextjs.org) | ![Progress](https://progress-bar.dev/67) | ![Progress](https://progress-bar.dev/95) |
 | [![Awesome Badges](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org) | ![Progress](https://progress-bar.dev/48) | ![Progress](https://progress-bar.dev/250) |
-| [![Awesome Badges](https://img.shields.io/badge/PHP%205.x-777BB4.svg?logo=PHP&logoColor=ffffff)](https://php.net)|![Progress](https://progress-bar.dev/94/)| ![Progress](https://progress-bar.dev/60)|
-| [![Awesome Badges](https://img.shields.io/badge/PHP%207.x-777BB4.svg?logo=PHP&logoColor=ffffff)](https://php.net/)|![Progress](https://progress-bar.dev/71/)| ![Progress](https://progress-bar.dev/82)|
+| [![Awesome Badges](https://img.shields.io/badge/PHP%205.x-777BB4.svg?logo=PHP&logoColor=ffffff)](https://php.net)|![Progress](https://progress-bar.dev/94/)| ![Progress](https://progress-bar.dev/60)| `laravel` `zend` `yii` `cake`
+| [![Awesome Badges](https://img.shields.io/badge/PHP%207.x-777BB4.svg?logo=PHP&logoColor=ffffff)](https://php.net/)|![Progress](https://progress-bar.dev/71/)| ![Progress](https://progress-bar.dev/82)| `laravel` `zend` `yii 2` `cake`
 | [![Awesome Badges](https://img.shields.io/badge/Wordpress-21759B.svg?logo=WordPress&logoColor=ffffff)](https://wordpress.org)|![Progress](https://progress-bar.dev/92)| ![Progress](https://progress-bar.dev/120)| `plugins desv` `theme desv` `visual composer extensions`
 | [![Awesome Badges](https://img.shields.io/badge/WooCommerce-96588A.svg?logo=Woo&logoColor=ffffff)](https://woocommerce.com)|![Progress](https://progress-bar.dev/86)| ![Progress](https://progress-bar.dev/90)| `extensions` `product imports` `integration`
 | [![Awesome Badges](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=ffffff)](https://www.docker.com)|![Progress](https://progress-bar.dev/52)| ![Progress](https://progress-bar.dev/200)| `docker-machine`
@@ -41,13 +41,11 @@
 
 ## Available to changes
 > Countries I accept to live in:
-
-
+>
 <img src="https://lipis.github.io/flag-icon-css/flags/4x3/ca.svg" title="Canadá" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/us.svg" title="EUA" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/au.svg" title="Austrália" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/pt.svg" title="Portugal" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg" title="UK" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/ie.svg" title="Irlanda" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg" title="França" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/nl.svg" title="Holanda" width="60"/>
 
 > Companies that I would accept to work for:
-
-
+>
 `Google` `Facebook` `IBM` `Tesla` `Pipefy` `Amazon` `IBM` `Strapi` `Rockstar Games` `Riot Games`
 
 ##
