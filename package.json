@@ -1,0 +1,22 @@
+{
+  "name": "zastrich",
+  "version": "1.0.0",
+  "description": "![](https://raw.githubusercontent.com/zastrich/zastrich/master/assets/imgs/profile-pic.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zastrich": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zastrich/zastrich.git"
+  },
+  "author": "Zastrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zastrich/zastrich/issues"
+  },
+  "homepage": "https://github.com/zastrich/zastrich#readme"
+}
