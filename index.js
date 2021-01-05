@@ -1,3 +1,9 @@
 #!/usr/bin/env node
 
-console.log('Eitaaaaaaa')
+const open = require('open')
+
+const [,, version, ...args] = process.argv
+
+console.log('eita', version, args)
+
+open('https://github.com/zastrich')
