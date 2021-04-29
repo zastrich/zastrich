@@ -46,7 +46,7 @@
 
 > Companies that I would accept to work for:
 >
-`Google` `Facebook` `IBM` `Tesla` `Pipefy` `Amazon` `IBM` `Strapi` `Rockstar Games` `Riot Games` `Grupo Boticário`
+`Google` `Facebook` `IBM` `Tesla` `Pipefy` `Amazon` `IBM` `Strapi` `Rockstar Games` `Riot Games` `X-Team` `Grupo Boticário`
 
 ##
 ###### This profile is free to copy
