@@ -40,10 +40,6 @@
 | ![Awesome Badges](https://img.shields.io/badge/English-B22234.svg?label=Language&labelColor=3C3B6E)|![Progress](https://progress-bar.dev/64)| ![Progress](https://progress-bar.dev/120)|
 
 ## Available to changes
-> Countries I accept to live in:
->
-<img src="https://lipis.github.io/flag-icon-css/flags/4x3/ca.svg" title="Canadá" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/us.svg" title="EUA" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/au.svg" title="Austrália" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/pt.svg" title="Portugal" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg" title="UK" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/ie.svg" title="Irlanda" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg" title="França" width="60"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/nl.svg" title="Holanda" width="60"/>
-
 > Companies that I would accept to work for:
 >
 `Google` `Facebook` `IBM` `Tesla` `Pipefy` `Amazon` `IBM` `Strapi` `Rockstar Games` `Riot Games` `X-Team` `Grupo Boticário`
