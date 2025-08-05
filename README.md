@@ -3,7 +3,7 @@
 
 ### Desenvolvimento de Software & Liderança Digital
 
-<a href="https://app.rocketseat.com.br/me/zastrich"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=zastrich&type=card" width="280" alt="Robert Fernando Schweppe's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/zastrich"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=zastrich&type=card&n=2" width="280" alt="Robert Fernando Schweppe's Rocket ID"/></a>
 
 ---
 
