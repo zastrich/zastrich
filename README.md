@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor com mais de 20 anos de experiência e Tech Manager a 4 anos, apaixonado por liderança técnica, produto digital e escalabilidade.
+Sou um desenvolvedor com mais de 20 anos de experiência e Tech Leader a 4 anos, apaixonado por liderança técnica, produto digital e escalabilidade.
 
 ![](https://raw.githubusercontent.com/zastrich/zastrich/master/assets/imgs/profile-pic.jpg)
 
